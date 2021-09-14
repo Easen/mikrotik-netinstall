@@ -1,3 +1,7 @@
+***NOTE: CURRENTLY WORK IN PROGRESS***
+
+
+
 # Mikrotik NetInstall
 
 Prepackaged docker image that has latest Mikrotik Netinstall tool installed
